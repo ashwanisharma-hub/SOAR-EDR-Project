@@ -42,10 +42,6 @@ This project demonstrates the implementation of a Security Orchestration, Automa
 
 This repository contains an overview of our SOAR EDR project. We are currently working on detailed documentation that will guide you through the setup process step-by-step. Stay tuned for updates!
 
-## Contributors
-
-This project was developed collaboratively by [Alaa Eddine Ayedi](https://github.com/nattycoder) and [Ranim Hassine](https://github.com/ranimhassine).
-
 ## Detailed Project Documentation
 
 For a comprehensive understanding of the project, including detailed setup instructions and in-depth explanations of each component, please refer to our detailed project documentation:
@@ -53,13 +49,6 @@ For a comprehensive understanding of the project, including detailed setup instr
 [Project_Documentation.pdf](./SOAR-EDR-Project.pdf)
 
 This PDF provides step-by-step guidance on setting up the environment, configuring LimaCharlie and Tines, and implementing the automated workflow.
-
-## Coming Soon
-
-- Detailed setup instructions for LimaCharlie
-- Guide to creating Tines stories for this workflow
-- Best practices for custom detection rule creation
-- Troubleshooting tips and common issues
 
 ## Resources
 
